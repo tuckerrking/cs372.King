@@ -23,4 +23,4 @@ public:
   bool empty() override;
   void swap(Container &, Container &) override;
   void clear() override;
-}
+};
