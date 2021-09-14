@@ -1,3 +1,5 @@
+#pragma once
+#include <iostream> 
 #include "cs372List.h"
 
 template <typename T>
