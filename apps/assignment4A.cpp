@@ -72,7 +72,7 @@ int main(int argc, const char * argv[])
             case 1:
                 display_all_tasks(task_list);
                 break;
-            /*case 2:
+            case 2:
                 int task_num;
                 cout << "Enter task number you want to display: ";
                 cin >> task_num;
@@ -86,7 +86,7 @@ int main(int argc, const char * argv[])
                 cout << endl;
                 
                 update_task(task_num, task_list);
-                break;*/
+                break;
             case 4:
                 exit(1);
                 break;
